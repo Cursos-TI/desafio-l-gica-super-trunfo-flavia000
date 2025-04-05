@@ -1,0 +1,14 @@
+
+#include <studio.h>
+
+    int dados pessoais(){
+        char nome = Flavia;
+        int idade = 20;
+        float altua = 1.68;
+        char sexo = F;
+        char estado civil = solteira;
+        double peso = 60.0;
+        char tipo sanguineo = 0-;
+      
+    return 0;
+    }
